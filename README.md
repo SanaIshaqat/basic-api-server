@@ -3,13 +3,11 @@
 ### Deployment Test with Validator and Logger
 Author: Sana Ishaqat
 
-[tests report (actions)](https://github.com/SanaIshaqat/basic-express-server/actions)
+[tests report (actions)](https://github.com/SanaIshaqat/basic-api-server/actions)
 
-[back-end (heroku proof of life)](https://sana-basic-express-server-02.herokuapp.com/alive)
+[back-end (heroku proof of life)](https://sana-basic-api-server-401.herokuapp.com/alive)
 
-[back-end (heroku /person and name query )](https://sana-basic-express-server-02.herokuapp.com/person?name=sana)
-
-[PR Link](https://github.com/SanaIshaqat/server-deployment-practice/pull/4)
+[PR Link](https://github.com/SanaIshaqat/basic-api-server/pull/1)
 
 ### Setup
 .env requirements
@@ -31,4 +29,4 @@ Unit Tests: npm run test
 Run Server: npm run dev "Runs Index.js"
 
 UML
-![](UML02.jpg)
+![](UML03.jpg)
